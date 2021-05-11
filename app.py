@@ -72,7 +72,7 @@ def main():
    <div class="col-md-12">
    <center><p style="font-size:40px;color:white;margin-top:10px;">MID TERM I</p></center>
    <center><p style="font-size:30px;color:white;margin-top:10px;">NAME: Sparsh Sharma</p></center>
-   <center><p style="font-size:25px;color:white;margin-top:0px;"> Reg No: * PIET18CS138 * Sec: C * Roll No: 27 </p></center>
+   <center><p style="font-size:25px;color:white;margin-top:0px;">Reg No: * PIET18CS138 * Sec: C * Roll No: 27 </p></center>
    </div>
    </div>
    </div>
